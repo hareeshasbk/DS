@@ -31,7 +31,7 @@ print(string1+string2)
 eligible=True
 age=16
 
-if age>18:
+if age>=18:
     eligible=True
 
 print(eligible)
